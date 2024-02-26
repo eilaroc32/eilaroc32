@@ -1,6 +1,6 @@
 ### Hi there 👋
-1. I'm Coralie 🏸
-2. I'm studying at EPFL ⚗️🧪🥼⚛️
+* I'm Coralie 🏸
+* I'm studying at EPFL ⚗️🧪🥼⚛️
 ![csm_1602852863_1086739354master_d924936b75](https://github.com/eilaroc32/eilaroc32/assets/160879372/ab6b120c-74bb-4010-80e7-b83cc933e687)
 
 
